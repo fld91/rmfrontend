@@ -4,8 +4,8 @@ import Navigation from './components/Navigation';
 function App() {
   return (
     <div className="App">
-      <h1>hari</h1>
-      {/* <Navigation/>asd */}
+      <h1></h1>
+      <Navigation/>
     </div>
   );
 }
